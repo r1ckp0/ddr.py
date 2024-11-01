@@ -8,5 +8,5 @@ Made using evdev and python-osc libraries:
 https://python-evdev.readthedocs.io/en/latest/
 https://python-osc.readthedocs.io/en/latest/
 
-Default ip and port are localhost:8000, but you can change them like this:
+Default ip and port are localhost:8000, but you can change them running the script like this:
 python ddr.py 192.168.0.23 7575 (ip and port)
